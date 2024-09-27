@@ -1,4 +1,4 @@
 # html-resume
-Just started web dev 
-this is the first project made
-marking the start of a journey
+Just started web dev <br>
+this is the first project made <br>
+marking the start of a journey 
